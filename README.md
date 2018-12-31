@@ -6,6 +6,6 @@
 1. [X] XOR Detection 1
 1. [X] XOR Detection 2
 1. [X] WUTANG
-1. [] PROTECT YA NECK
+1. [X] PROTECT YA NECK
 1. [] CRYPTO / IDOR
 1. [] CRYPTO / Sessions 

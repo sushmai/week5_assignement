@@ -8,4 +8,4 @@
 1. [X] WUTANG
 1. [X] PROTECT YA NECK
 1. [] CRYPTO / IDOR
-1. [] CRYPTO / Sessions 
+1. [X] CRYPTO / Sessions 
